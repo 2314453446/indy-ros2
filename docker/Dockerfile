@@ -39,8 +39,8 @@ RUN apt-get update && apt-get upgrade -y \
     ros-humble-moveit-ros-move-group \
     ros-humble-moveit-planners-ompl \
     ros-humble-moveit-kinematics \
-    ros-humble-gazebo-ros \
-    ros-humble-gazebo-ros2-control \
+#    ros-humble-gazebo-ros \
+#    ros-humble-gazebo-ros2-control \
     ros-humble-controller-manager \
     ros-humble-joint-state-broadcaster \
     ros-humble-joint-state-publisher-gui \
