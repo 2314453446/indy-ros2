@@ -1,3 +1,5 @@
+- 工作空间'ros2_ws'下只保留src/文件夹，然后在ros2_ws目录下重新编译：colcon build --symlink-install
+
 indy7 机械臂+moveit2启动程序
 
 1）终端 A（桥接节点：状态 + 控制）：
