@@ -1,0 +1,25 @@
+[0.381s] Invoking command in '/home/stl/JNU/connectstudy/ros2_ws/src/indy_dcp_bridge': PYTHONPATH=/home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/indy_dcp_bridge build --build-base /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build install --record /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/install.log --single-version-externally-managed install_data
+[0.528s] running egg_info
+[0.528s] writing ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/PKG-INFO
+[0.528s] writing dependency_links to ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/dependency_links.txt
+[0.528s] writing entry points to ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/entry_points.txt
+[0.528s] writing requirements to ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/requires.txt
+[0.528s] writing top-level names to ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/top_level.txt
+[0.529s] reading manifest file '../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/SOURCES.txt'
+[0.530s] writing manifest file '../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/SOURCES.txt'
+[0.530s] running build
+[0.530s] running build_py
+[0.530s] copying indy_dcp_bridge/tcp_dither_test.py -> /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge
+[0.530s] running install
+[0.530s] running install_lib
+[0.531s] copying /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge/tcp_dither_test.py -> /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge
+[0.531s] byte-compiling /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge/tcp_dither_test.py to tcp_dither_test.cpython-310.pyc
+[0.532s] running install_data
+[0.532s] running install_egg_info
+[0.533s] removing '/home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge-0.0.0-py3.10.egg-info' (and everything under it)
+[0.533s] Copying ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info to /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge-0.0.0-py3.10.egg-info
+[0.533s] running install_scripts
+[0.546s] Installing indy_dcp_fjt_server_node script to /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/indy_dcp_bridge
+[0.546s] Installing indy_dcp_tcp_dither script to /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/indy_dcp_bridge
+[0.546s] writing list of installed files to '/home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/install.log'
+[0.557s] Invoked command in '/home/stl/JNU/connectstudy/ros2_ws/src/indy_dcp_bridge' returned '0': PYTHONPATH=/home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/indy_dcp_bridge build --build-base /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build install --record /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/install.log --single-version-externally-managed install_data

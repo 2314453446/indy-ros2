@@ -1,0 +1,21 @@
+package.xml
+setup.cfg
+setup.py
+../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/PKG-INFO
+../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/SOURCES.txt
+../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/dependency_links.txt
+../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/entry_points.txt
+../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/requires.txt
+../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/top_level.txt
+../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/zip-safe
+indy_dcp_bridge/__init__.py
+indy_dcp_bridge/fjt_server_node.py
+indy_dcp_bridge/indy_program_maker.py
+indy_dcp_bridge/indydcp_client.py
+indy_dcp_bridge/joint_state_node copy.py
+indy_dcp_bridge/joint_state_node.py
+indy_dcp_bridge/tcp_dither_test.py
+resource/indy_dcp_bridge
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

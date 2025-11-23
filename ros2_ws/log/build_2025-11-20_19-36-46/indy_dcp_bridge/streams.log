@@ -1,0 +1,42 @@
+[0.611s] Invoking command in '/home/stl/JNU/connectstudy/ros2_ws/src/indy_dcp_bridge': PYTHONPATH=/home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/indy_dcp_bridge build --build-base /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build install --record /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/install.log --single-version-externally-managed install_data
+[0.790s] running egg_info
+[0.791s] creating ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info
+[0.791s] writing ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/PKG-INFO
+[0.791s] writing dependency_links to ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/dependency_links.txt
+[0.791s] writing entry points to ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/entry_points.txt
+[0.791s] writing requirements to ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/requires.txt
+[0.791s] writing top-level names to ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/top_level.txt
+[0.791s] writing manifest file '../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/SOURCES.txt'
+[0.793s] reading manifest file '../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/SOURCES.txt'
+[0.793s] writing manifest file '../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/SOURCES.txt'
+[0.793s] running build
+[0.793s] running build_py
+[0.793s] creating /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build
+[0.793s] creating /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib
+[0.793s] creating /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge
+[0.793s] copying indy_dcp_bridge/__init__.py -> /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge
+[0.793s] copying indy_dcp_bridge/indy_program_maker.py -> /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge
+[0.793s] copying indy_dcp_bridge/indydcp_client.py -> /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge
+[0.793s] copying indy_dcp_bridge/joint_state_node.py -> /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge
+[0.794s] running install
+[0.794s] running install_lib
+[0.794s] creating /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge
+[0.794s] copying /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge/__init__.py -> /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge
+[0.794s] copying /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge/indy_program_maker.py -> /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge
+[0.794s] copying /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge/indydcp_client.py -> /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge
+[0.795s] copying /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge/joint_state_node.py -> /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge
+[0.795s] byte-compiling /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge/__init__.py to __init__.cpython-310.pyc
+[0.795s] byte-compiling /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge/indy_program_maker.py to indy_program_maker.cpython-310.pyc
+[0.797s] byte-compiling /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge/indydcp_client.py to indydcp_client.cpython-310.pyc
+[0.802s] byte-compiling /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge/joint_state_node.py to joint_state_node.cpython-310.pyc
+[0.803s] running install_data
+[0.803s] creating /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/share/ament_index
+[0.803s] creating /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/share/ament_index/resource_index
+[0.803s] creating /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/share/ament_index/resource_index/packages
+[0.803s] copying resource/indy_dcp_bridge -> /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/share/ament_index/resource_index/packages
+[0.803s] copying package.xml -> /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/share/indy_dcp_bridge
+[0.803s] running install_egg_info
+[0.804s] Copying ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info to /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge-0.0.0-py3.10.egg-info
+[0.804s] running install_scripts
+[0.817s] writing list of installed files to '/home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/install.log'
+[0.831s] Invoked command in '/home/stl/JNU/connectstudy/ros2_ws/src/indy_dcp_bridge' returned '0': PYTHONPATH=/home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/indy_dcp_bridge build --build-base /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build install --record /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/install.log --single-version-externally-managed install_data

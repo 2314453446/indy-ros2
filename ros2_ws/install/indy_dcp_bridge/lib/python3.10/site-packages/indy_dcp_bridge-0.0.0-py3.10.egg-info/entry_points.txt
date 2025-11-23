@@ -1,0 +1,4 @@
+[console_scripts]
+indy_dcp_fjt_server_node = indy_dcp_bridge.fjt_server_node:main
+indy_dcp_tcp_dither = indy_dcp_bridge.tcp_dither_test:main
+

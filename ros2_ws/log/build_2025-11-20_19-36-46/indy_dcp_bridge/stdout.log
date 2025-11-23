@@ -1,0 +1,40 @@
+running egg_info
+creating ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info
+writing ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/PKG-INFO
+writing dependency_links to ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/dependency_links.txt
+writing entry points to ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/entry_points.txt
+writing requirements to ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/requires.txt
+writing top-level names to ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/top_level.txt
+writing manifest file '../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/SOURCES.txt'
+reading manifest file '../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/SOURCES.txt'
+writing manifest file '../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build
+creating /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib
+creating /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge
+copying indy_dcp_bridge/__init__.py -> /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge
+copying indy_dcp_bridge/indy_program_maker.py -> /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge
+copying indy_dcp_bridge/indydcp_client.py -> /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge
+copying indy_dcp_bridge/joint_state_node.py -> /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge
+running install
+running install_lib
+creating /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge
+copying /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge/__init__.py -> /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge
+copying /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge/indy_program_maker.py -> /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge
+copying /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge/indydcp_client.py -> /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge
+copying /home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/build/lib/indy_dcp_bridge/joint_state_node.py -> /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge
+byte-compiling /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge/indy_program_maker.py to indy_program_maker.cpython-310.pyc
+byte-compiling /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge/indydcp_client.py to indydcp_client.cpython-310.pyc
+byte-compiling /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge/joint_state_node.py to joint_state_node.cpython-310.pyc
+running install_data
+creating /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/share/ament_index
+creating /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/share/ament_index/resource_index
+creating /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/share/ament_index/resource_index/packages
+copying resource/indy_dcp_bridge -> /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/share/ament_index/resource_index/packages
+copying package.xml -> /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/share/indy_dcp_bridge
+running install_egg_info
+Copying ../../build/indy_dcp_bridge/indy_dcp_bridge.egg-info to /home/stl/JNU/connectstudy/ros2_ws/install/indy_dcp_bridge/lib/python3.10/site-packages/indy_dcp_bridge-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/stl/JNU/connectstudy/ros2_ws/build/indy_dcp_bridge/install.log'

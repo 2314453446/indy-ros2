@@ -1,0 +1,6 @@
+source;share/indy_dcp_bridge/hook/pythonpath.ps1
+source;share/indy_dcp_bridge/hook/pythonpath.dsv
+source;share/indy_dcp_bridge/hook/pythonpath.sh
+source;share/indy_dcp_bridge/hook/ament_prefix_path.ps1
+source;share/indy_dcp_bridge/hook/ament_prefix_path.dsv
+source;share/indy_dcp_bridge/hook/ament_prefix_path.sh
